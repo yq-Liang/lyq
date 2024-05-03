@@ -8,7 +8,7 @@ description:
 #-------------------------------
 # Author Settings
 author:
-  name:梁亚清
+  name: 梁亚清
   image: 01.jpg
   say-hello: 你好，我是 <strong>梁亚清</strong>
   bio: 数字媒体技术，信号与信息处理， <strong>算法</strong>，<strong>AIGC</strong>，<strong>Unity</strong>，我是一个好学、热情的人。 喜欢<a href="#">飞盘</a> & 游泳。
