@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 自我介绍
+title: About me
 permalink: /about/
 image: 01.jpg
 ---
@@ -14,7 +14,7 @@ image: 01.jpg
 
 保研至CUC信通学院信号与信息处理专业，主研沉浸式媒体技术，三维重建NeRF、目标检测算法、AIGC大模型都有涉猎。
 
-#### Vinyl hexagon before...
+#### 本科生
 <small>2018 - 2022</small>
 
-
+就读于CUC信通学院数字媒体技术融合媒体方向，对VR、Unity开发感兴趣。
