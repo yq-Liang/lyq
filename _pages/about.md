@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 自我介绍
 permalink: /about/
 image: 01.jpg
 ---
